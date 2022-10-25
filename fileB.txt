@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-fileB changedd
-=======
 fileB changedy
->>>>>>> feature-b
